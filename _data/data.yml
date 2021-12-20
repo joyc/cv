@@ -1,4 +1,4 @@
-name: 李　闖（リ　チン）
+name: 李 闖 (リ チン)
 support_dark_mode: true
 fork: true
 
@@ -28,8 +28,8 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Python
-      - Go
+      - - Python
+      - - Go
   - category: Frontend
     skill:
       - Vue

@@ -1,20 +1,20 @@
-name: John Doe
+name: 李　闖（リ　チン）
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: richin@live.jp
+  github: joyc
+  linkedin: 
+  phone: (080)4169-6044
   gitlab: 
-  twitter: 
+  twitter: joyc
 
 languages:
+  - idiom: Chinese
+  - idiom: Japanese
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
   - degree: MSc in Informatics
@@ -28,11 +28,11 @@ education:
 skills:
   - category: Backend
     skill: 
+      - Python
       - Go
-      - Rust
   - category: Frontend
     skill:
-      - React
+      - Vue
       - Typescript
   - category: DevOps
     skill:
@@ -84,6 +84,16 @@ publications:
     authors: John E. Doe
     conference: Some conference again, 2018
 
+プロジェクト経験:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
+
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
 projects:
   - title: Cool Project 
     link: #

@@ -11,11 +11,11 @@
                     font-weight: bold;
                     @include body-text; 
                 }
-                .time {
-                    color: var(--fg-color-title-sm);
-                    float: right;
-                    font-weight: 80;
-                }
+            }
+            .time {
+                color: var(--fg-color-title-sm);
+                float: right;
+                font-weight: 100;
             }
         }
     }

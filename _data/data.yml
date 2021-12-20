@@ -12,9 +12,9 @@ contact:
   twitter: joyc
 
 languages:
-  - idiom: 中国語（ネイティブ）
-  - idiom: 日本語（ビジネス）
-  - idiom: 英　語（日常会話）
+  - idiom: 中国語 (ネイティブ)
+  - idiom: 日本語 (ビジネス)
+  - idiom: 英　語 (日常会話)
 
 education:
   - degree: MSc in Informatics
@@ -28,11 +28,11 @@ education:
 skills:
   - category: Backend
     skill: 
+      - Python
       - Go
-      - Rust
   - category: Frontend
     skill:
-      - React
+      - Vue
       - Typescript
   - category: DevOps
     skill:
@@ -41,11 +41,11 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  アクセンチュア株式会社に入社後、約6年間デジタルトランスフォーメーションやデジタルマーケティング
+  の数個プロ ジェクトに携わり、要件定義にもとづいた設計から開発・テスト・保守運用を担当。
+  その他、RPA業務自動化、データ分析など携わりました。
+  また新規案件に関しては、クライアントへのヒラリングから要件定義、設計などの上流工程や、
+  チームリーダーとしてのタスク・進行管理により、品質を維持しながら期日通り納品できています。
 
 # Experience
 experience:

@@ -1,0 +1,22 @@
+.certifications {
+    .title {
+        @include header;
+    }
+    .certification-items {
+        .certification-item {
+            margin-bottom: 20px;
+            .certification-title {
+                a {
+                    text-decoration: none;
+                    font-weight: bold;
+                    @include body-text; 
+                }
+                .time {
+                    color: var(--fg-color-title-sm);
+                    float: right;
+                    font-weight: 80;
+                }
+            }
+        }
+    }
+}

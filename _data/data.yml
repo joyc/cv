@@ -88,6 +88,7 @@ publications:
     authors: John E. Doe
     conference: Some conference again, 2018
 
+# certifications
 certifications:
   - title: Random title of paper. An interesting one.
     link: "#"

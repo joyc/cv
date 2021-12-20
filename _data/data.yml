@@ -12,9 +12,9 @@ contact:
   twitter: joyc
 
 languages:
-  - idiom: Chinese
-  - idiom: Japanese
-  - idiom: English
+  - idiom: 中国語（ネイティブ）
+  - idiom: 日本語（ビジネス）
+  - idiom: 英　語（日常会話）
 
 education:
   - degree: MSc in Informatics
@@ -37,11 +37,15 @@ skills:
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Kubernetes
+  - category: ビジネス
+    skill:
+      - ロジカルシンキング
+      - マーケティング
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  テスト ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 

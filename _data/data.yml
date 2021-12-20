@@ -84,6 +84,25 @@ publications:
     authors: John E. Doe
     conference: Some conference again, 2018
 
+# certifications
+certifications:
+  - title: Python3エンジニア認定基礎試験
+    link: "#"
+
+    conference: 2019年11月
+
+  - title: Python3エンジニア認定データ分析試験
+    link: "#"
+    conference: 2020年3月
+
+  - title: RPA advanced certification
+    link: "#"
+    conference: 2020年4月
+
+  - title: PMP (Project Management Professional)
+    link: "#"
+    conference: 2020年6月
+
 projects:
   - title: Cool Project 
     link: #

@@ -1,6 +1,6 @@
 name: 李 闖 (リ チン)
 support_dark_mode: true
-fork: false
+fork: true
 
 # Sidebar
 contact:
@@ -28,20 +28,24 @@ education:
 skills:
   - category: Backend
     skill: 
+      - Python
       - Go
-      - Rust
   - category: Frontend
     skill:
-      - React
+      - Vue
       - Typescript
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Kubernetes
+  - category: ビジネス
+    skill:
+      - ロジカルシンキング
+      - マーケティング
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  テスト ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -84,6 +88,18 @@ publications:
     authors: John E. Doe
     conference: Some conference again, 2018
 
+# certifications
+certifications:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
+
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
+
 projects:
   - title: Cool Project 
     link: #
@@ -103,6 +119,10 @@ volunteering:
     role: PR Manager
     company: Some random organization
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      作成テスト 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+# introduction
+about: |
+  私は5年間IT分野のコンサルティングファームに勤務いたしました。

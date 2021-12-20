@@ -51,22 +51,35 @@ profile: |
 experience:
   - role: Software Engineer
     time: 2021.12-現在
-    company: Google
+    company: アクセンチュア株式会社 | 小売・流通業界大手
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      【プロジェクト概要】
+      小売・流通業界大手でのITトランスフォーメーション支援。
+      データ分析基盤の構築、IF 設計、データモデル設計、アプリケーション開発、関連ソリューションベースの開発。
+      【担当フェーズ】
+      詳細設計、開発、単体テスト・結合テスト、リリース管理 
+      【業務内容】
+      ・クライアントとコミュニケーション、各ドキュメント作成
+      ・業務システムの設計、開発、導入、テスト
+      ・運用、保守メンテナンス
+      【習得スキル】
+      ・Requirements Analysis
+      ・Requirements Definition
+      ・Application Design
+      ・Analytics Solution Architecture
+      ・Data Analytics and Interpretation 
+      【実績・取り組み】
+      データマートから所要データのカスタマイズ・出し分け抽出又は定期的な連携機能を持つ
+      便利な内部アプリケーションの詳細設計・開発・リリースまで担当、納期通りのリリースができた。
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Go, Angular, Typescript
   
-  - role: Researcher
+  - role:  Application Designer
     time: 2020.11-2021.11
-    company: Microsoft
+    company: アクセンチュア株式会社 | 半導体業界大手
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      【担当フェーズ】：詳細設計、開発、単体テスト・結合テスト、リリース管理 
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
@@ -75,7 +88,7 @@ experience:
 
   - role: Researcher
     time: 2020.11-2021.11
-    company: Microsoft
+    company: ラオックス株式会社 | 商品部EC課
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 

@@ -17,13 +17,13 @@ languages:
   - idiom: 英　語 (日常会話)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: 商学研究科
+    time: 2011-2013
+    university: 駒澤大学大学院
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: 日本語学校
+    time: 2009-2011
+    university: 東亜学院
 
 skills:
   - category: Backend
@@ -53,13 +53,13 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2021.12-現在
+  - role: Application Designer
+    time: 2020.10-2021.11
     company: アクセンチュア株式会社 | 小売・流通業界大手
     details: |
       【プロジェクト概要】<br>
       小売・流通業界大手でのITトランスフォーメーション支援。
-      データ分析基盤の構築、IF 設計、データモデル設計、アプリケーション開発、関連ソリューションベースの開発。<br>
+      データ分析基盤の構築、IF設計、データモデル設計、アプリケーション開発、関連ソリューションベースの開発。<br>
       【担当フェーズ】<br>
       詳細設計、開発、単体テスト・結合テスト、リリース管理<br>
       【業務内容】<br>
@@ -73,22 +73,38 @@ experience:
       ・Analytics Solution Architecture<br>
       ・Data Analytics and Interpretation<br>
       【実績・取り組み】<br>
-      データマートから所要データのカスタマイズ・出し分け抽出又は定期的な連携機能を持つ
-      便利な内部アプリケーションの詳細設計・開発・リリースまで担当、納期通りのリリースができた。
+      データマートから所要データのカスタマイズ・出し分け抽出又は定期的な連携機能を持つ便利な
+      内部アプリケーションの詳細設計・開発・リリースまで担当、納期通りのリリースができた。
     technologies_used: | 
-      Go, Angular, Typescript
+      Python, Jupyter, Django, MySQL, AWS(EC2,Redshift,RDB,Lambdaなど), Datadog
   
-  - role:  Application Designer
-    time: 2020.11-2021.11
-    company: アクセンチュア株式会社 | 半導体業界大手
+  - role:  Application Developer
+    time: 2018.12-2020.3
+    company: アクセンチュア株式会社 | 小売・流通業界大手
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      【担当フェーズ】：詳細設計、開発、単体テスト・結合テスト、リリース管理 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      【プロジェクト概要】<br>
+      小売・流通業界大手での ITトランスフォーメーション支援。
+      マーケティングプラットフォーム導入、MAツール開発運用サポート。<br>
+      【担当フェーズ】<br>
+      要件定義、設計開発、テスト、運用保守<br> 
+      【業務内容】<br>
+      ・MA ツール機能拡張<br>
+      ・データ連携・分析<br>
+      ・業務運用サポート・RPA開発<br>
+      【習得スキル】<br>
+      ・Configuration & Release Management<br>
+      ・Application Architectures<br>
+      ・Build Management<br>
+      ・Design & Build Enablement<br>
+      ・Robotics Process Automation (RPA)<br>
+      ・Python/JavaScript Programming Language<br>
+      【実績・取り組み】<br>
+      MAツールでの開発・運用サポートにより、複数チャネルの顧客情報の一元管理で、
+      集客コストの削減と顧客ロイヤルティの向上に貢献した。
+      またRPAの利用で運用作業工数約6割の削減が実現した。
+      その後チームリーダーを務め、パッケージの汎用化に貢献した。
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      AMPScript, Javascript, UiPath, Salesforce, Python, Pandas, Numpy, Matlab
 
   - role: Researcher
     time: 2020.11-2021.11
@@ -117,7 +133,6 @@ publications:
 certifications:
   - title: Python3エンジニア認定基礎試験
     link: "https://photos.app.goo.gl/dSq63TJmiZTQPdVM7"
-
     conference: 2018年11月
 
   - title: Python3エンジニア認定データ分析試験

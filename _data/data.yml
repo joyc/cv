@@ -76,7 +76,7 @@ experience:
       データマートから所要データのカスタマイズ・出し分け抽出又は定期的な連携機能を持つ便利な
       内部アプリケーションの詳細設計・開発・リリースまで担当、納期通りのリリースができた。
     technologies_used: | 
-      Python, Django, MySQL, Jupyter, Zabbix, AWS(EC2,Redshift,RDB,Lambda..)
+      Python, Django, MySQL, Jupyter, AWS(EC2,Redshift,RDB,Lambda..), Zabbix
   
   - role:  Application Developer
     time: 2018.12-2020.3
@@ -130,17 +130,40 @@ experience:
     technologies_used: | 
       Java, Javascript, Jmate, Python, Locust, Mysql, Hybris
 
-  - role: Researcher
-    time: 2020.11-2021.11
+  - role: Application Developer
+    time: 2015.7-2018.5
+    company: アクセンチュア株式会社 | 大手半導体メーカー
+    details: |
+      【プロジェクト概要】<br>
+      半導体業界大手のコーポレートサイト刷新プロジェクトでの開発・テスト実施、
+      業務システムの統合とPCMパッケージ導入後のカスタマイズ開発をサポート、保守運用。<br>
+      【担当フェーズ】<br>
+      要件定義、基本設計、詳細設計、結合テスト、運用保守<br>
+      【業務内容】<br>
+      ・クライアントとのコミュニケーション・調整、各ドキュメント作成<br>
+      ・業務システムの設計、開発、導入、テスト<br>
+      ・運用、保守メンテナンス<br>
+      【習得スキル】<br>
+      ・Web 2.0 / RIA / AJAX<br>
+      ・Usability Design<br>
+      ・Web Site Standards and Compliance<br>
+      ・Storyboards & Wireframes<br>
+      ・Design & Build Enablement<br>
+      ・Web & Server based Platforms Solutions<br>
+      【実績・取り組み】<br>
+      仕様を把握したため、グローバルチームとコミュニケーションコスト削減。品質維持ながら納期通りでリリースができた。
+      また運用保守の効率化のため、ツール作成、機能アップデートに取り組むことで、業務改善に貢献した。
+    technologies_used: | 
+      JAVA, Oracle, Plsql, Hybris, AEM, Javascript, Python, Jenkins
+
+  - role: ECショプ運営担当
+    time: 2013.4-2015.6
     company: ラオックス株式会社 | 商品部EC課
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      EC モールでの出店管理、ページ作成、データ分析、販促・在庫管理。<br>
+      また自社 EC ショップの開発要件整理など。
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Excelマクロ, html/css/javascript, LAMP
 
 publications:
   - title: Random title of paper. An interesting one.

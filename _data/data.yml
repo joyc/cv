@@ -32,12 +32,13 @@ skills:
       - Go
   - category: Frontend
     skill:
+      - Javascript
       - Vue
-      - Typescript
   - category: DevOps
     skill:
+      - Git
+      - Jenkins
       - Docker
-      - Kubernetes
   - category: ビジネス
     skill:
       - ロジカルシンキング
